@@ -44,9 +44,9 @@ const Landing = () => {
         </Col>
       </Row>
       <Row justify='center' align='top'>
-        <Ad xs={24} sm={22} md={18} lg={16} xl={14} xxl={10}>
+        {/* <Ad xs={24} sm={22} md={18} lg={16} xl={14} xxl={10}>
           <Card>Mainos</Card>
-        </Ad>
+        </Ad> */}
       </Row>
     </Container>
     </Landerbg>
@@ -126,9 +126,9 @@ const Desc = styled.p`
   }
 `
 
-const Ad = styled(Col)`
-  margin-top: 15px;
-`
+// const Ad = styled(Col)`
+//   margin-top: 15px;
+// `
 
 const LandButton = styled(StyledButton)`
 @media only screen and (max-width: ${theme.breakpoints.xs}) {
