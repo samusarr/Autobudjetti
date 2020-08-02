@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "Mitä kannattaa ottaa huomioon auton hankinnassa?",
+      "answer": "Autoa hankkiessa kannattaa miettiä minkälaiseen tarkoitukseen auto tulee. Ajatko lyhyitä matkoja usein, pidempiä matkoja harvemmin tai jotain siltä väliltä. Onko auto sinulle vain väline millä pääset paikasta toiseen, vai haluatko että matkasi taittuu kaikilla mukavuuksilla. Asiaa kannattaa pohtia myös pidemmällä tähtäimellä: maksamalla hiukan enemmän tänään, voi säästää pitkän pennin huomenna."
+    },
+    {
+      "question": "Kannattaako ostaa diesel-auto?",
+      "answer": "Jos ajat ainoastaan kaupungissa ja lyhyitä matkoja, on paras ratkaisu todennäköisesti jokin muu kuin diesel-auto. Diesel käyttöisessä ajoneuvossa perusveron lisäksi tulee maksettavaksi myös käyttövoimavero, mikä määräytyy auton painon mukaan 5,5 snt per alkava 100kg per päivä. Käyttövoimavero vaihtelee auton mukaan, mutta se on henkilöautoissa luokkaa 400-500€ vuodessa. Käyttvoimaveron vuoksi diesel tulee hyväksi vaihtoehdoksi vasta jos kilometrejä kertyy tietty määrä. Diesel-auto kuitenkin myös kuluttaa vähemmän kuin vastaava bensiini-auto, varsinkin jos autolla kuljetetaan isompaa kuormaa tai esimerkiksi vedetään asuntovaunua. Pakettiautolla vero on vain 0,9 snt per alkava 100kg ja käytettyinä autoina löytyykin paljon farmari-autoja, jotka on rekisteröity pakettiautoiksi. Jos siis ajelet enimmäkseen yksin tai kaksin, on tämä todella varteen otettava vaihtoehto."
+    },
+    {
+      "question": "Uusi vai käytetty auto?",
+      "answer": "Ostaessa aivan uuden auton saat itse päättää värin, millä varusteilla auton ostat ja ollaan rehellisiä, onhan se hienoa että on aivan uusi auto. Sen taloudellinen järkevyys ei välttämättä olekaan enää niin hohdokasta. Auton arvon alenemaakin lasketaan yleensä ensimmäisen vuoden osalta hiukan enemmän, kuin seuraavien. Kannattaa tutkia olisiko myynnissä mahdollisesti esittely-autoina käytettyjä kappaleita (niissä on yleensä varusteet kohdillaan), tai löytyisikö mahdollisesti samanlainen auto pari-kolmekymmentä tuhatta ajettuna. Tällä tavoin voit säästää tuhansia."
+    },
+    {
+      "question": "Eri merkit ja mallit",
+      "answer": "Merkkejä ja malleja on pilvin pimein, osa varmasti sellaisia mistä et ole kuullutkaan. Merkin ja mallin suhteen kannattaa miettiä auton mahdollista jälleenmyyntiarvoa, huoltomahdollisuuksia ja varaosien saatavuutta. Jos jokainen mutteri mitä autosi huollossa tarvitaan täytyy erikseen tilata Japanista tulee huollot kalliiksi ja pitkä kestoisiksi. Varsinkin käytettyjä autoja ostaessa kannattaa suosia eri merkkien ns. lippulaiva malleja, koska niihin on yleensä panostettu kaikista eniten."
+    },
+    {
+      "question": "Auton huoltohistorian huomioon ottaminen",
+      "answer": "Jokaisen auton kohdalla kannattaa tutkia onko kyseisellä autolla jotain tyyppivikoja. Niitä löytyy melkein jokaisesta autosta, mutta eri kokoluokassa. Jossain autoissa kyse on pienistä sähkövioista, toisissa kaikki räjähtää. Hyvin huolletulla autolla käyttöikäkin on luonnolisesti pidempi. Välillä se kuitenkin vaatii isompiakin remontteja. Tämmöiset isommat remontit tehdään yleensä 150-300 tuhannen kilometrin välein. Voikin siis olla järkevämpää ostaa esimerkiksi 300 tuhatta ajettu auto, mille huollot on jo tehty, sen sijaan että ostaisi 180 tuhatta ajetun auton hiukan kalliimmalla, missä kaikki huollot on vielä edessä."
+    },
+    {
+      "question": "Liikkeestä vai yksityiseltä?",
+      "answer": "Ostaessa yksityiseltä auton saa yleensä hiukan halvemmalla verrattuna liikkeeseen. Myöskin tinkivaraa saattaa olla hiukan enemmän. Liikkeen kanssa asioidessa kuluttajalla on kuitenkin hiukan enemmän turvaa ja ainakin joissain autoliikkeissä saa asiantuntevaa palvelua. Jos siis et itse autoista hirveästi tiedä, eikä sinulla ole kaveria kuka näissä asioissa auttaisi kannattaa lähtökohtaisesti kääntyä liikkeen puoleen. Varsinkin jos tarkoituksena on vaihtaa nykyinen auto uuteen, käy se paljon helpommin liikkeen kanssa, sen sijaan että itse myisit ensin oman autosi ja sitten ostaisit uuden. Tottakai silloin siinä saattaa muutaman satasen hävitä, mutta palvelu ja helppous maksaa."
+    }
+]
+}
