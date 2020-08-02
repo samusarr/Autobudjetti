@@ -1,5 +1,5 @@
 ## Autobudjetti
 
-**Gatsby**
-**React**
-**Styled Components**
+**Gatsby** <br>
+**React** <br>
+**Styled Components** <br>
