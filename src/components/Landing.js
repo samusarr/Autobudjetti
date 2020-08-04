@@ -56,11 +56,23 @@ const Landing = () => {
 export default Landing
 
 const Landerbg = styled.div`
-  background-image: url('/images/car-background.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-`
+  background-color: ${theme.colors.darkblue};
+// background: linear-gradient(-45deg, #fff, #23a6d5);
+// background-size: 400% 400%;
+// animation: gradient 15s ease infinite;
+// }
+
+// @keyframes gradient {
+// 0% {
+//     background-position: 0% 50%;
+// }
+// 50% {
+//     background-position: 100% 50%;
+// }
+// 100% {
+//     background-position: 0% 50%;
+// }
+// `
 
 const Container = styled.div`
   margin: auto;

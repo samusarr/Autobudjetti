@@ -6,7 +6,7 @@ import { Row, Col } from 'antd';
 const Footer = () => (
   <FooterContainer>
     <Row justify='center'>
-      <Col><FooterItem>Powered by Sarrit</FooterItem></Col>
+      <Col><FooterItem>Powered by Samu</FooterItem></Col>
     </Row>
     
   </FooterContainer>
