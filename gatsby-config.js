@@ -25,7 +25,7 @@ module.exports = {
         background_color: ``,
         theme_color: ``,
         display: ``,
-        icon: `icons/autobudjetti-icon.png`, // This path is relative to the root of the site.
+        icon: `src/icons/autobudjetti-icon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
